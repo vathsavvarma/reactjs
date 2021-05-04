@@ -1,0 +1,9 @@
+.vathsav {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.measure {
+    margin-top: 70px;
+}
