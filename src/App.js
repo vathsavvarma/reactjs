@@ -14,9 +14,9 @@ const App = () => {
         <Navbar />
         <Background />
         <Switch>
-            <Route exact path="/" component={Form} />
+            <Route exact path="/reactjs" component={Form} />
             <Route exact path="/sample" component={Sample} />
-            <Route exact path='/reactjs' component={Error} />
+            <Route exact path="/error" component={Error} />
         </Switch>
         </>
     ); 
