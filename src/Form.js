@@ -20,7 +20,7 @@ const Form = () => {
                 <label className="pa0 ma0 lh-copy f6 pointer"><input type="checkbox" /> Remember me</label>
                 </fieldset>
                 <div className="">
-                <a href="./home"><input className="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" type="submit" value="Sign in" /></a>
+                <a href="/"><input className="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" type="submit" value="Sign in" /></a>
                 </div>
                 <div className="lh-copy mt3">
                 <a href="./sample" className="f6 link dim black db">Sign up</a>
