@@ -15,7 +15,7 @@ const App = () => {
         <Background />
         <Switch>
             <Route exact path="/reactjs" component={Form} />
-            <Route exact path="/reactjs/sample" component={Sample} />
+            <Route exact path="/sample" component={Sample} />
             <Route path="/" component={Error} />
         </Switch>
         </>
